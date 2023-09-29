@@ -10,6 +10,8 @@ _**Когда вышла ошибка:**_
 
 _**Когда все работает:**_
 
+
 ![777](https://avatanplus.com/files/resources/mid/577e751b50334155c5f972c1.png)
 
 dfgdfgdlg;sklzdfmg 
+fgdfgdg
