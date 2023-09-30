@@ -40,20 +40,20 @@
 
 > #Если установлен Homebrew
 brew install git
-
+>
 > #Если нет, то вводим эту команду. 
 git --version
-
+>
 > #После этого появится окно, где предложит установить Command Line Tools (CLT).
-
+>
 > #Соглашаемся и ждем установки. Вместе с CLT установиться и git
-
+>
 - Linux. Открываем терминал и вводим следующую команду.
-
+>
 > #Debian или Ubuntu
 sudo apt install git
-
->#CentOS
+>
+> #CentOS
 sudo yum install git
 
 ## Настройка
@@ -63,11 +63,11 @@ sudo yum install git
 Открываем терминал (Linux и MacOS) или консоль (Windows) и вводим следующие команды.
 
 > #Установим имя для вашего пользователя
-
+>
 > #Вместо <ваше_имя> можно ввести, например, Grisha_Popov
-
+>
 > #Кавычки оставляем
 git config --global user.name "<ваше_имя>"
-
+>
 > #Теперь установим email. Принцип тот же.
 git config --global user.email "<адрес_почты@email.com>"
